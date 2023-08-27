@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TravelerRtB
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java
+- 🌱 I’m currently learning PHP
+- 💞️ I’m looking to collaborate on PHP
 - 📫 How to reach me ... well, here if possible.
 
 <!---
